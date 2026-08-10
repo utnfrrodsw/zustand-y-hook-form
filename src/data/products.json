@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Teclado mecánico",
+    "price": 45,
+    "description": "Teclado mecánico con switches táctiles, ideal para programar y escribir muchas horas.",
+    "image": "https://picsum.photos/seed/teclado/600/400"
+  },
+  {
+    "id": 2,
+    "name": "Mouse inalámbrico",
+    "price": 25,
+    "description": "Mouse ergonómico inalámbrico con batería de larga duración y precisión óptima.",
+    "image": "https://picsum.photos/seed/mouse/600/400"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares",
+    "price": 60,
+    "description": "Auriculares con cancelación de ruido y micrófono integrado para reuniones.",
+    "image": "https://picsum.photos/seed/auriculares/600/400"
+  },
+  {
+    "id": 4,
+    "name": "Monitor 24\"",
+    "price": 150,
+    "description": "Monitor Full HD de 24 pulgadas con panel IPS y bordes delgados.",
+    "image": "https://picsum.photos/seed/monitor/600/400"
+  },
+  {
+    "id": 5,
+    "name": "Webcam HD",
+    "price": 40,
+    "description": "Webcam 1080p con autofoco y micrófono estéreo para videollamadas claras.",
+    "image": "https://picsum.photos/seed/webcam/600/400"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Hub",
+    "price": 35,
+    "description": "Hub multipuerto USB-C: HDMI, USB 3.0 y lector de tarjetas SD.",
+    "image": "https://picsum.photos/seed/hub/600/400"
+  },
+  {
+    "id": 7,
+    "name": "Mousepad XL",
+    "price": 15,
+    "description": "Mousepad extendido con base antideslizante y superficie de tela suave.",
+    "image": "https://picsum.photos/seed/mousepad/600/400"
+  }
+]
